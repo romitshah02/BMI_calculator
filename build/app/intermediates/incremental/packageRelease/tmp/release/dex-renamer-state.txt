@@ -1,0 +1,4 @@
+#Tue Oct 03 19:19:39 IST 2023
+base.0=/media/romit/New Volume/Linux Storage/flutter_projects/bmi_calculator/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
